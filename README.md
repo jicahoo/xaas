@@ -9,3 +9,4 @@
 * Fission: https://fission.io/
 * riff
 * spring cloud function
+* openfaas: https://github.com/openfaas/faas
